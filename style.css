@@ -1,0 +1,28 @@
+*{
+            background-color:#FAD691;
+}
+h1{
+            color: #E4004B;
+        }
+p{
+            color: #ED775A;
+            text-transform: uppercase;
+        }        
+h4{
+            color: #C9CDCF;
+            
+        }        
+h2{
+            color: #ED775A;
+        }        
+a{
+            color: #E4004B
+        }        
+div{
+    text-align: center;
+
+    ;
+}
+img{
+    border: 5px solid salmon;
+}
